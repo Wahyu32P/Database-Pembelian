@@ -1,0 +1,16 @@
+{
+  "name": "Database Pembelian",
+  "short_name": "Pembelian",
+  "description": "Dashboard dan riwayat pembelian bahan bangunan",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F3A5F",
+  "theme_color": "#1F3A5F",
+  "lang": "id",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
